@@ -1,6 +1,6 @@
 # Stock-Market-Kafka-Data-Engineering-Project
 - In this project, I executed an End-To-End Data Engineering Project on Real-Time Stock Market Data using Kafka.
-- 
+  
 # Technology Used
 
 - Programming Language - Python
